@@ -137,7 +137,6 @@ public class Generala {
             tallies[i-1]++;
         return tallies;
     }
-
     public static int sumEqual(int[] numbers, int number){
         int total=0;
         for(int i=0; i <numbers.length; i++){
